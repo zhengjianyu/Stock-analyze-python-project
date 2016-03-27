@@ -14,7 +14,6 @@ Please enter the end date:
 YYYY-MM-DD
 2014-04-15
 
-
 Please choose the indicators to analyze:
 A: Simple moving average.
 B: Directional indicator.
