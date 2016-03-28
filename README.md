@@ -32,3 +32,4 @@ Example input are below:
     
     Please enter the range of moving average: 3
 
+
