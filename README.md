@@ -2,7 +2,7 @@
 A small python project using urllib with data sorting
 
 Run main.py. 
-Example input:
+Example input are below:
 
 Please enter the ticker symbol of the stock you want to search: GOOG
 
